@@ -1,0 +1,13 @@
+train: C:\Users\YASH UMATE\OneDrive\Desktop\face_recognition\weapon\train
+val:   C:\Users\YASH UMATE\OneDrive\Desktop\face_recognition\weapon\valid
+test:  C:\Users\YASH UMATE\OneDrive\Desktop\face_recognition\weapon\test
+
+nc: 1
+names: ['weapon']
+
+roboflow:
+  workspace: harshavardhan-adefc
+  project: weapon-detection-ndkao
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/harshavardhan-adefc/weapon-detection-ndkao/dataset/1
